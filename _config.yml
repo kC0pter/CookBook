@@ -86,6 +86,9 @@ author:
   # email: hello@connorbaer.co
   # twitter: connor_baer
 
+github:
+  repo: https://github.com/kC0pter/CookBook
+
 # Content
 excerpt_separator: <!-- Read more -->
 
