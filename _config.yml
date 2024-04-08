@@ -73,7 +73,7 @@ tagline: 'Delicious & healthy recipes'
 description: "Eine kleine Sammlung an Rezepten"
 keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
 url: kC0pter.github.io
-baseurl: CookBook
+baseurl: /CookBook
 assets: /assets
 images: /images
 # image: index-large.jpg
