@@ -12,7 +12,24 @@ exclude: true
     {% if page.image %}
       <div class="hero-background" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}.jpeg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}/posts/{{ page.ref }}-large.jpeg') 2x )"></div>
       <div class="hero-overlay"></div>
-      {% include core/metabar.html color="-white" %}
+      <aside id="metabar" class="metabar{% if include.color %} {{ include.color }}{% endif %}">
+        <div class="metabar-wrapper">
+            <div class="metabar-left">
+                <a class="metabar-logo" href="{{ site.baseurl }}/#" aria-label="Visit 'Made by Connor.'" title="Visit 'Made by Connor.'">
+                    {% include custom/logo.html %}
+                </a>
+                <span class="metabar-spacer"></span>
+                <a class="metabar-title" href="{{ site.baseurl }}{% if page.url == '/' %}#" data-scroll{% else %}"{% endif %} aria-label="Visit the homepage." title="Visit the homepage.">{{ site.title }}</a>
+            </div>
+            <div class="metabar-right">
+                <button id="js-navOpen" class="nav-open">Menu</button>
+                <nav id="js-metabarNav" class="metabar-nav">
+                    <button id="js-navClose" class="nav-close">Close</button>
+                    {% include core/navigation.html %}
+                </nav>
+            </div>
+        </div>
+    </aside>
     {% else %}
       {% include core/metabar.html %}
     {% endif %}
