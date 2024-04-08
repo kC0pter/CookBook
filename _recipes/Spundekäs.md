@@ -6,6 +6,9 @@ time: 30
 category: mittags
 tags: [vegetarisch, schnell]
 ingredients:
+  - name: Gefrorene Brezn
+    amount: 4
+    unit:
   - name: Philadelphia Frischkäse
     amount: 400
     unit: gr
@@ -29,5 +32,8 @@ ingredients:
     unit: gr
 ---
 
+Ofen vorheizen auf die auf der Brezn-Packung angegebene Temperatur.
+
 1. Zwiebeln und Knoblauch kleinhacken.
-2. Alles in einer Schüssel verrühren und 1-2 Stunden stehen lassen
+2. Alles in einer Schüssel verrühren und 1-2 Stunden stehen lassen.
+3. Brezn aufbacken und genießen.
