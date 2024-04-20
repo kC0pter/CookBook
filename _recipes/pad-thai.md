@@ -55,7 +55,7 @@ ingredients:
 
 4 Portionen
 
-## Vorbereitung:
+## Vorbereitung
 * Reisnudeln in einer Schüssel mit kochendem Wasser übergießen und 7-9 min ziehen lassen. Anshcließend kalt abspülen und abtropfen lassen.
 * Sauce aus Tamarindenpaste, Sojasauce, brauner Zucker und Wasser in einer Schüssel mischen.
 * Zwiebeln in halbe Ringe und Karotten in feine Streifen schneiden
