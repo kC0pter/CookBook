@@ -56,13 +56,13 @@ ingredients:
 4 Portionen
 
 ## Vorbereitung:
-1. Reisnudeln in einer Schüssel mit kochendem Wasser übergießen und 7-9 min ziehen lassen. Anshcließend kalt abspülen und abtropfen lassen.
-2. Sauce aus Tamarindenpaste, Sojasauce, brauner Zucker und Wasser in einer Schüssel mischen.
-3. Zwiebeln in halbe Ringe und Karotten in feine Streifen schneiden
-4. Den grünen Teil der Frühlingszwiebeln in 5cm lange Streifen schneiden.
-5. Den weißen Teil der Frühlingszwiebeln in Ringe schneiden.
-6. Tofu in Würfel schneiden.
-7. Erdnüsse hacken oder zerstoßen und Limetten in Schnitzen/wedges schneiden.
+* Reisnudeln in einer Schüssel mit kochendem Wasser übergießen und 7-9 min ziehen lassen. Anshcließend kalt abspülen und abtropfen lassen.
+* Sauce aus Tamarindenpaste, Sojasauce, brauner Zucker und Wasser in einer Schüssel mischen.
+* Zwiebeln in halbe Ringe und Karotten in feine Streifen schneiden
+* Den grünen Teil der Frühlingszwiebeln in 5cm lange Streifen schneiden.
+* Den weißen Teil der Frühlingszwiebeln in Ringe schneiden.
+* Tofu in Würfel schneiden.
+* Erdnüsse hacken oder zerstoßen und Limetten in Schnitzen/wedges schneiden.
 
 
 ## Kochen
