@@ -3,7 +3,7 @@ title: 'Pad Thai'
 ref: pad-thai
 image: true
 time: 30
-category: mittags
+category: abends
 tags: [vegetarisch, asia, schnell]
 ingredients:
   - name: Reisnudeln 3mm
@@ -55,7 +55,7 @@ ingredients:
 
 4 Portionen
 
-Vorbereitung:
+# Vorbereitung:
 1. Reisnudeln in einer Schüssel mit kochendem Wasser übergießen und 7-9 min ziehen lassen. Anshcließend kalt abspülen und abtropfen lassen.
 2. Sauce aus Tamarindenpaste, Sojasauce, brauner Zucker und Wasser in einer Schüssel mischen.
 3. Zwiebeln in halbe Ringe und Karotten in feine Streifen schneiden
@@ -64,7 +64,7 @@ Vorbereitung:
 6. Tofu in Würfel schneiden.
 7. Erdnüsse hacken oder zerstoßen und Limetten in Schnitzen/wedges schneiden.
 
-Kochen
+# Kochen
 1. Wok-Pfanne mit Öl erhitzen. Tofu, Zwiebeln, 1TL der Chilifocken, ca. 3/4 der Karotten und gepresste Knoblauchzehen beigeben und 5min anbraten.
 2. Reisnudeln und Sauce dazugeben und unter ständigem Rühren anbraten. Wenn die meiste Flüssigkeit aufgesaugt ist, alles aus der Pfanne nehme und in eine Schüssel beseite Stellen.
 3. In die gleichen Pfanne mit einem Schuss Öl die Eier geben und leicht verquirlen.
