@@ -11,7 +11,7 @@ ingredients:
     unit:
   - name: Philadelphia Frischkäse
     amount: 400
-    unit: gr
+    unit: g
   - name: mittlegroße Zwiebel
     amount: 1
     unit: 
@@ -29,7 +29,7 @@ ingredients:
     unit: 
   - name: Butter
     amount: 25
-    unit: gr
+    unit: g
 ---
 
 Ofen vorheizen auf die auf der Brezn-Packung angegebene Temperatur.
