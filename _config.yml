@@ -69,9 +69,9 @@ dark_theme: false
 
 # Site meta
 title: Mein Kochbuch
-tagline: 'Delicious & healthy recipes'
+tagline: 'Eine kleine Sammlung an Rezepten'
 description: "Eine kleine Sammlung an Rezepten"
-keywords: 'connor, bär, designer, traveller, code, jekyll, developer, theme'
+keywords: ''
 url: kC0pter.github.io
 baseurl: /CookBook
 assets: /assets
