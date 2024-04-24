@@ -9,7 +9,7 @@ ingredients:
   - name: Glasnudeln
     amount: 200
     unit: g
-  - name: Kokosraaspeln
+  - name: Kokosraspeln
     amount: 20
     unit: g
   - name: Brauner Zucker
@@ -33,7 +33,7 @@ ingredients:
   - name: Ingwer
     amount: 40
     unit: g
-  - name: Konblauchzehen
+  - name: Knoblauchzehen
     amount: 2
     unit: 
   - name: Karotten
@@ -48,7 +48,7 @@ ingredients:
   - name: Tofu (geräuchert)
     amount: 250
     unit: g
-  - name: Chiliflocke
+  - name: Chiliflocken
     amount: 
     unit:
 ---
@@ -56,16 +56,16 @@ ingredients:
 4 Portionen
 
 ## Vorbereitung
-* Glasnudeln nach Packungsanweisung vorbereiten und mit kaltem Wasser abschrecken. Etwas Öl hinzufügen, damit sie nicht zusammenkleben.
+* Glasnudeln in heißem Wasser für 3 min ziehen lassen und mit kaltem Wasser abschrecken. Etwas Öl hinzufügen, damit sie nicht zusammenkleben.
 * Knoblauch schälen und pressen
 * Ingwer schälen und fein reiben.
 * Karotten und Zucchini in feine Streifen schneiden
-* Frühliungszwiebeln in feine Ringe schneiden
+* Frühlingszwiebeln in feine Ringe schneiden
 * Tofu in 1cm große Würfel schneiden
 
 
 ## Kochen
-1. Kokosflocken bei mittlerer Hitze ohne Öl in einer Pfanne rösten und beiseitestellen.
+1. Kokosflocken bei mittlerer Hitze ohne Öl in einer Pfanne rösten und beiseite stellen.
 2. Für die Sauce den braunen Zucker, Erdnussmus, Kokosmilch, Limettensaft, Wasser und die Hälfte der Sojasauce in einem kleinen Topf erhitzen, bis der Zucker sich aufgelöst hat.
 3. Tofu mit Öl in der Pfanne knusprig anbraten. Anschließend auf einem Zewa abtropfen lassen.
 4. Pfanne kurz auswischen und anschließend Knoblauch, Ingwer und den weißen Teil der Frühlingszwiebeln für 1 min mit etwas Öl rösten. Karotten und Zucchini zugeben und kurz anbraten, damit das Gemüse noch Biss hat. Anschließend mit der restlichen Sojasauce ablöschen und vom Herd nehmen.
